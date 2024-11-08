@@ -31,3 +31,4 @@ E:\Repos\LesJackson.net\DiApi\obj\Debug\net8.0\refint\DiApi.dll
 E:\Repos\LesJackson.net\DiApi\obj\Debug\net8.0\DiApi.pdb
 E:\Repos\LesJackson.net\DiApi\obj\Debug\net8.0\DiApi.genruntimeconfig.cache
 E:\Repos\LesJackson.net\DiApi\obj\Debug\net8.0\ref\DiApi.dll
+E:\Repos\LesJackson.net\DiApi\obj\Debug\net8.0\DiApi.sourcelink.json
