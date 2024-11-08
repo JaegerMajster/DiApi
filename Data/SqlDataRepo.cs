@@ -12,4 +12,3 @@ namespace DiApi.Data
         }
     }
 }
-#pragma warning restore format
