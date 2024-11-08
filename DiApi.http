@@ -1,0 +1,6 @@
+@DiApi_HostAddress = http://localhost:5015
+
+GET {{DiApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
